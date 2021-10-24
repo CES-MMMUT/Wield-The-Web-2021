@@ -28,13 +28,13 @@
 @media  screen and (max-width:723px) {
     #learn{
         position: relative;
-         height: 195vh;
+         height: 170vh;
     }
 }
 @media  screen and (max-width:470px) {
     #learn{
         position: relative;
-         height: 285vh;
+         height: 240vh;
     }
 }
 #learn hr.star-primary:after{
