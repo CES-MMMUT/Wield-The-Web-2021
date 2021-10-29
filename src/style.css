@@ -28,8 +28,8 @@ body {
 }
 #top-logo{
   border-radius: 50%; 
-  width: 55px;
-   height: 55px; 
+  width: 49px;
+   height: 49px; 
    margin-right: 155px;
 }
 @media screen and ( max-width:963px) {
